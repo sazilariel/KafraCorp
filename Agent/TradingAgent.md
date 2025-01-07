@@ -42,4 +42,3 @@ Phase 1: Develop API integration for major brokers and MetaTrader compatibility.
 
 Phase 2: Launch rental marketplace for Kafra Girls with customizable AI trading strategies.
 
-## Tra
