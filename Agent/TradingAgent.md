@@ -4,7 +4,9 @@
 The Kafra Girl Trading Agent is an AI-based trading assistant tailored for the FOREX market. 
 Unlike static Expert Advisors (EAs) in traditional trading, which lack decision-making adaptability, the Kafra Girl uses adaptive AI to deliver smarter, more profitable, and dynamic trading solutions.
 
-  
+## 
+<img src="../Image/KAFRAAI-TRADINGAGENT.png" />
+
 ## Why FOREX?
 Massive Market Size: $6 trillion daily trading volume provides immense opportunities.
 
@@ -39,3 +41,5 @@ Massive Market Size: $6 trillion daily trading volume provides immense opportuni
 Phase 1: Develop API integration for major brokers and MetaTrader compatibility.
 
 Phase 2: Launch rental marketplace for Kafra Girls with customizable AI trading strategies.
+
+## Tra
