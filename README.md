@@ -26,7 +26,7 @@ Kafra leverages multiple revenue models to ensure sustainable growth and a thriv
 
 
 ## **Official Links**
-
+- **Website**: [https://kafra.ai](https://kafra.ai)
 - **X**: [https://x.com/KAFRAC0RP](https://x.com/KAFRAC0RP)  
 - **Telegram**: [https://t.me/zeny_KafraCorp](https://t.me/zeny_KafraCorp)  
 - **Discord**: [https://discord.gg/ZfjncRxDxJ](https://discord.gg/ZfjncRxDxJ)
