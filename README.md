@@ -31,6 +31,7 @@ Kafra leverages multiple revenue models to ensure sustainable growth and a thriv
 - **Telegram**: [https://t.me/zeny_KafraCorp](https://t.me/zeny_KafraCorp)  
 - **Discord**: [https://discord.gg/ZfjncRxDxJ](https://discord.gg/ZfjncRxDxJ)
 - **Contract Address:** [EygH6PKzPTGJaerPFsZMGB6H5RKvrQPPca6WkVQWpump](https://dexscreener.com/solana/GZNky6g1tWA3HBexBGtgCuGyEf5KeNC77Lpkomedozak)
+- **WhitePaper:** [https://kafra-corp.gitbook.io/kafra-corp/white-paper](https://kafra-corp.gitbook.io/kafra-corp/white-paper/mission-and-vision)
 
 ## Agent Framework
 - [https://elizaos.ai](https://elizaos.ai) 
